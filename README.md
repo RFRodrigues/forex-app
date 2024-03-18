@@ -30,7 +30,7 @@ Before getting started with forex-app, make sure your development environment in
 ### Login
   Landing page that consists in a login page. It has basic validations to every field, if it is empty or if not valid(base on the hardcoded data validation). 
   After successful login, the app redirects to the home page.
-  It has an hardcoded data validation wich is:
+  It has an hardcoded data validation which uses the credentials:
   - clientId = `C14557`
   - userId = `USER23`
   - password = `ExamplePw`
