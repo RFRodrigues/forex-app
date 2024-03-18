@@ -1,0 +1,26 @@
+﻿@page "/"
+@model forex_app.Models.LoginModel
+
+
+<div class="login-wrapper">
+    <div class="logo-wrapper">
+        <img src="~/logo-color.svg" alt="Sample Photo" />
+    </div>
+    <form method="post">
+        <div class="input-wrapper">
+            <input asp-for="Login.ClientId" placeholder="CLIENT ID" class="form-control" />
+            <span asp-validation-for="Login.ClientId" class="text-danger"></span>
+        </div>
+        <div class="input-wrapper">
+            <input asp-for="Login.UserId" placeholder="USER ID" class="form-control" />
+            <span asp-validation-for="Login.UserId" class="text-danger"></span>
+        </div>
+        <div class="input-wrapper">
+            <input asp-for="Login.Password" placeholder="PASSWORD" type="password" class="form-control" />
+            <span asp-validation-for="Login.Password" class="text-danger"></span>
+        </div>
+        <div class="submit-wrapper">
+            <button type="submit" class="btn-submit">Sign me in</button>
+        </div>
+    </form>
+</div>

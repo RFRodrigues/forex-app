@@ -1,0 +1,86 @@
+﻿@page
+@using Newtonsoft.Json.Linq
+@model HomeModel
+@{
+    var apiResponse = ViewData["ApiResponse"] as JObject;
+    var timeSeriesData = apiResponse["Time Series FX (Daily)"] as JObject;
+    var lastRefresh = ViewData["lastRefresh"];
+    var currencyFrom = ViewData["currencyFrom"];
+    var currencyTo = ViewData["currencyTo"];
+}
+
+<div class="text-center">
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <div class="container">
+            <img src="~/logo-white.svg" alt="Sample Photo" />
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        </div>
+    </nav>
+    <div class="table-wrapper">
+        <form method="post" name="controls-form">
+            <div class="controls-wrapper">
+            
+                    <div class="labels-wrapper">
+                        <span class="info-label">Forex daily prices</span>
+                        <span class="refresh-label">Last refresh: @lastRefresh</span>
+                    </div>
+                <select id="currency-from" class="currency-from" name="currencyfrom">
+                    <option value="GBP">GBP</option>
+                    <option value="EUR">EUR</option>
+                    <option value="USD">USD</option>
+                </select>
+                <select id="currency-to" class="currency-to" name="currencyto">
+                    <option value="GBP">GBP</option>
+                    <option value="EUR">EUR</option>
+                    <option value="USD">USD</option>
+                </select>
+                <button class="navbar-toggler" type="submit" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <img class="refresh-icon" src="~/refresh-icon.png" alt="Refresh Icon">
+                </button>
+            </div>
+        </form>
+        <table>
+            <thead>
+                <tr>
+                    <th>Open</th>
+                    <th>High</th>
+                    <th>Low</th>
+                    <th>Close</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in timeSeriesData)
+                {
+                    <tr>
+                        <td class="light-col">@(item.Value["1. open"])</td>
+                        <td class="darker-col">@(item.Value["2. high"])</td>
+                        <td class="darker-col">@(item.Value["3. low"])</td>
+                        <td class="light-col">@(item.Value["4. close"])</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    
+</div>
+
+@section Scripts {
+    <script>
+        document.getElementById("currency-from").addEventListener("change", function () {
+            $('form').submit();
+        });
+        document.getElementById("currency-to").addEventListener("change", function () {
+            $('form').submit();
+        });
+        window.onload = function () {
+            var currencyFrom = "@currencyFrom";
+            var currencyTo = "@currencyTo";
+
+            document.getElementById("currency-from").value = currencyFrom;
+            document.getElementById("currency-to").value = currencyTo;
+        };
+    </script>
+}

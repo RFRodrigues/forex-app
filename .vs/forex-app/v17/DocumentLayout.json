@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ruben\\source\\repos\\forex-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E5C74B-4A9E-4685-A860-AD31D1F66C0E}|forex-app-tests\\forex-app-tests.csproj|c:\\users\\ruben\\source\\repos\\forex-app\\forex-app-tests\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E5C74B-4A9E-4685-A860-AD31D1F66C0E}|forex-app-tests\\forex-app-tests.csproj|solutionrelative:forex-app-tests\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FAA029-7881-447F-A442-857D71F78D0E}|forex-app\\forex-app.csproj|c:\\users\\ruben\\source\\repos\\forex-app\\forex-app\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{68FAA029-7881-447F-A442-857D71F78D0E}|forex-app\\forex-app.csproj|solutionrelative:forex-app\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FAA029-7881-447F-A442-857D71F78D0E}|forex-app\\forex-app.csproj|c:\\users\\ruben\\source\\repos\\forex-app\\forex-app\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{68FAA029-7881-447F-A442-857D71F78D0E}|forex-app\\forex-app.csproj|solutionrelative:forex-app\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FAA029-7881-447F-A442-857D71F78D0E}|forex-app\\forex-app.csproj|c:\\users\\ruben\\source\\repos\\forex-app\\forex-app\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{68FAA029-7881-447F-A442-857D71F78D0E}|forex-app\\forex-app.csproj|solutionrelative:forex-app\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FAA029-7881-447F-A442-857D71F78D0E}|forex-app\\forex-app.csproj|c:\\users\\ruben\\source\\repos\\forex-app\\forex-app\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68FAA029-7881-447F-A442-857D71F78D0E}|forex-app\\forex-app.csproj|solutionrelative:forex-app\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FAA029-7881-447F-A442-857D71F78D0E}|forex-app\\forex-app.csproj|c:\\users\\ruben\\source\\repos\\forex-app\\forex-app\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68FAA029-7881-447F-A442-857D71F78D0E}|forex-app\\forex-app.csproj|solutionrelative:forex-app\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FAA029-7881-447F-A442-857D71F78D0E}|forex-app\\forex-app.csproj|c:\\users\\ruben\\source\\repos\\forex-app\\forex-app\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68FAA029-7881-447F-A442-857D71F78D0E}|forex-app\\forex-app.csproj|solutionrelative:forex-app\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FAA029-7881-447F-A442-857D71F78D0E}|forex-app\\forex-app.csproj|c:\\users\\ruben\\source\\repos\\forex-app\\forex-app\\pages\\home.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FAA029-7881-447F-A442-857D71F78D0E}|forex-app\\forex-app.csproj|solutionrelative:forex-app\\pages\\home.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FAA029-7881-447F-A442-857D71F78D0E}|forex-app\\forex-app.csproj|c:\\users\\ruben\\source\\repos\\forex-app\\forex-app\\pages\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68FAA029-7881-447F-A442-857D71F78D0E}|forex-app\\forex-app.csproj|solutionrelative:forex-app\\pages\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FAA029-7881-447F-A442-857D71F78D0E}|forex-app\\forex-app.csproj|c:\\users\\ruben\\source\\repos\\forex-app\\forex-app\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68FAA029-7881-447F-A442-857D71F78D0E}|forex-app\\forex-app.csproj|solutionrelative:forex-app\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FAA029-7881-447F-A442-857D71F78D0E}|forex-app\\forex-app.csproj|c:\\users\\ruben\\source\\repos\\forex-app\\forex-app\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FAA029-7881-447F-A442-857D71F78D0E}|forex-app\\forex-app.csproj|solutionrelative:forex-app\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E5C74B-4A9E-4685-A860-AD31D1F66C0E}|forex-app-tests\\forex-app-tests.csproj|c:\\users\\ruben\\source\\repos\\forex-app\\forex-app-tests\\hometest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E5C74B-4A9E-4685-A860-AD31D1F66C0E}|forex-app-tests\\forex-app-tests.csproj|solutionrelative:forex-app-tests\\hometest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FAA029-7881-447F-A442-857D71F78D0E}|forex-app\\forex-app.csproj|c:\\users\\ruben\\source\\repos\\forex-app\\forex-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FAA029-7881-447F-A442-857D71F78D0E}|forex-app\\forex-app.csproj|solutionrelative:forex-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FAA029-7881-447F-A442-857D71F78D0E}|forex-app\\forex-app.csproj|c:\\users\\ruben\\source\\repos\\forex-app\\forex-app\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68FAA029-7881-447F-A442-857D71F78D0E}|forex-app\\forex-app.csproj|solutionrelative:forex-app\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FAA029-7881-447F-A442-857D71F78D0E}|forex-app\\forex-app.csproj|c:\\users\\ruben\\source\\repos\\forex-app\\forex-app\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68FAA029-7881-447F-A442-857D71F78D0E}|forex-app\\forex-app.csproj|solutionrelative:forex-app\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FAA029-7881-447F-A442-857D71F78D0E}|forex-app\\forex-app.csproj|c:\\users\\ruben\\source\\repos\\forex-app\\forex-app\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68FAA029-7881-447F-A442-857D71F78D0E}|forex-app\\forex-app.csproj|solutionrelative:forex-app\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FAA029-7881-447F-A442-857D71F78D0E}|forex-app\\forex-app.csproj|c:\\users\\ruben\\source\\repos\\forex-app\\forex-app\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68FAA029-7881-447F-A442-857D71F78D0E}|forex-app\\forex-app.csproj|solutionrelative:forex-app\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "forex-app\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "forex-app\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T18:18:05.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "forex-app\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "forex-app\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T18:18:03.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "forex-app\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app\\Pages\\Error.cshtml",
+              "RelativeToolTip": "forex-app\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T18:17:57.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "forex-app\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app\\Pages\\Login.cshtml",
+              "RelativeToolTip": "forex-app\\Pages\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T18:17:37.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "forex-app\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "forex-app\\Pages\\Login.cshtml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T18:17:33.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app\\Pages\\Home.cshtml",
+              "RelativeDocumentMoniker": "forex-app\\Pages\\Home.cshtml",
+              "ToolTip": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app\\Pages\\Home.cshtml",
+              "RelativeToolTip": "forex-app\\Pages\\Home.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T17:22:46.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginTest.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app-tests\\LoginTest.cs",
+              "RelativeDocumentMoniker": "forex-app-tests\\LoginTest.cs",
+              "ToolTip": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app-tests\\LoginTest.cs",
+              "RelativeToolTip": "forex-app-tests\\LoginTest.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T17:02:07.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeTest.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app-tests\\HomeTest.cs",
+              "RelativeDocumentMoniker": "forex-app-tests\\HomeTest.cs",
+              "ToolTip": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app-tests\\HomeTest.cs",
+              "RelativeToolTip": "forex-app-tests\\HomeTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T16:46:03.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app\\Pages\\Home.cshtml.cs",
+              "RelativeDocumentMoniker": "forex-app\\Pages\\Home.cshtml.cs",
+              "ToolTip": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app\\Pages\\Home.cshtml.cs",
+              "RelativeToolTip": "forex-app\\Pages\\Home.cshtml.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwC0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T17:51:15.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "forex-app\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app\\Models\\Login.cs",
+              "RelativeToolTip": "forex-app\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:21:45.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "home.css",
+              "DocumentMoniker": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app\\wwwroot\\css\\home.css",
+              "RelativeDocumentMoniker": "forex-app\\wwwroot\\css\\home.css",
+              "ToolTip": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app\\wwwroot\\css\\home.css",
+              "RelativeToolTip": "forex-app\\wwwroot\\css\\home.css",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAABsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-16T12:39:59.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "forex-app\\wwwroot\\css\\login.css",
+              "ToolTip": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "forex-app\\wwwroot\\css\\login.css",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-16T12:26:45.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "forex-app\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "forex-app\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-16T00:25:55.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app\\Program.cs",
+              "RelativeDocumentMoniker": "forex-app\\Program.cs",
+              "ToolTip": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app\\Program.cs",
+              "RelativeToolTip": "forex-app\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:00:58.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "forex-app\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "forex-app\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T23:58:54.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "forex-app\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app\\Properties\\launchSettings.json",
+              "RelativeToolTip": "forex-app\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-18T12:14:24.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "forex-app\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ruben\\source\\repos\\forex-app\\forex-app\\appsettings.Development.json",
+              "RelativeToolTip": "forex-app\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-15T01:01:10.628Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
