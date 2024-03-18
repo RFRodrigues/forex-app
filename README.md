@@ -3,12 +3,12 @@ Web application that provides daily forex prices and management of beneficiaries
 
 ## Table of contents
 
-[Prerequisites](#prerequisites)
-[Running App](#runApp)
-[Structure](#struct)
-[Routes](#routes)
-[Code Documentation](#code)
-[Tests](#tests)
+- [Prerequisites](#prerequisites)
+- [Running App](#runApp)
+- [Structure](#struct)
+- [Routes](#routes)
+- [Code Documentation](#code)
+- [Tests](#tests)
 
 <a id="prerequisites"></a>
 ## Prerequisites
