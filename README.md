@@ -1,18 +1,30 @@
 # Forex-app
 Web application that provides daily forex prices and management of beneficiaries.
 
+## Table of contents
+
+[Prerequisites](#prerequisites)
+[Running App](#runApp)
+[Structure](#struct)
+[Routes](#routes)
+[Code Documentation](#code)
+[Tests](#tests)
+
+<a id="prerequisites"></a>
 ## Prerequisites
 
 Before getting started with forex-app, make sure your development environment includes the following requirements.
 
 * [Visual Studio 2022] version `17.9` with .NET `8.0` installed.
 
+<a id="runApp"></a>
 ## Running the App
 
 * Open the solution file `forex-app.sln` in Visual studio.
 
 * Press `F5` in Visual Studio. Visual Studio will launch the app in the browser.
 
+<a id="struct"></a>
 ## Structure
 
 ### Login
@@ -29,12 +41,14 @@ Before getting started with forex-app, make sure your development environment in
 ### Error
   Default error page, didn't make changes to the generated page.
 
+<a id="routes"></a>
 ## Routes
 
 - /Login
 - /Home
 - /Error
 
+<a id="code"></a>
 ## Code documentation
 
 ### Login
@@ -55,3 +69,21 @@ Before getting started with forex-app, make sure your development environment in
 `OnGet` - Set the default values when it is the first time it loads the page.<br><br>
 `OnPost` - Pretty much the same as the Get method, but it is used to get the data when the submit is called. Received values are used to call the API with the new values.<br><br>
 `MakeApiCallAsync` - Receives the currencyFrom and currencyTo to call the API with that values, after a successfull response, it sets the received data to show on the view.
+
+<a id="tests"></a>
+## Tests 
+
+To run the tests for the app, right-click in the forex-app-tests solution and "execute tests".<br>
+
+### Login 
+
+- `EmptyFieldsLoginTest` - Tests login with all the fields empty;
+- `InvalidLoginTest` - Tests login with invalid data;
+- `ValidLoginTest` - Tests login with valid data;
+- `SuccessfullLoginTest` - Tests login with valid data and checks if redirects to /home page;
+
+### Home
+
+Tests here doesn't make too much sense because i receive information and set it on the viewData(and i don't know why i can't access it in tests). In that case, i wrote a test that covers most of the cases but skipped to avoid failing tests.
+
+- `OnGetTestAsync` - This test was supposed to call the API and set the default values for the currencies and check viewData to make sure view has access to that data;
